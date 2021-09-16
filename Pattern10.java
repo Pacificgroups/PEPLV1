@@ -21,7 +21,6 @@ public class Pattern10 {
                 System.out.print("*");
             }
 
-
             if(i<=n/2){
                 os--;
                 is+=2;
